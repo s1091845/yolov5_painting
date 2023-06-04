@@ -13,4 +13,4 @@
 | ------------------------------------------------------------------------------------ | -------------------- |
 | [**YOLOv7**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) | 36.9                |
 | [**YOLOv7-tiny**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) | 6.2               |
-| [**YOLOv7-他們自己做的模型**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) | 4               |
+
